@@ -2,7 +2,7 @@
 
 Landing page website built with HTML & CSS. Part of the [Frontend Mentor](https://www.frontendmentor.io) challenge.
 
-[Live Demo](https://awesome-huddle.netlify.app)
+[Live Demo](https://huddlelanding.netlify.app)
 
 ![Screenshot](huddle-screenshot.png)
 
